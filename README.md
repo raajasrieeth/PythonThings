@@ -1,2 +1,8 @@
 # PythonThings
-Codes when I was a novice
+Codes when I was a novice.
+
+
+
+
+
+Huge Thanks to CodeWithHarry who got my interest to Python , with his awesome Projects and Examples!.
