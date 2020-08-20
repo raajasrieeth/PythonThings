@@ -69,7 +69,7 @@ D={"cow":"milk"}#can add more items
 key=input("Type key for meaning")
 print(D[key])
 #sets
-s=set([23,34])
+s=set([23,34])#set comprehension.
 s.add(3 )#adds 3 to the set s
 s.add(4)#adds 4
 s.remove(4)#removes 4 from the set
